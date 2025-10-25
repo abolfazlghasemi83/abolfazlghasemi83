@@ -33,7 +33,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 🌍 Linkedin:(https://www.linkedin.com/in/abolfazlghasemi55)  ](https://www.linkedin.com/in/abolfazl-ghasemi55/)
+- 🌍 Linkedin:(https://www.linkedin.com/in/abolfazl-ghasemi55/)
 - ✉️ Email: abolfazlghasemi55@gmail.com  
 
 ---
