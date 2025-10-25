@@ -22,18 +22,18 @@
 `Python` • `Django`  
 
 **Tools & Others:**  
-`Git` • `GitHub` • `VS Code` • `Figma` • `Linux`
+`Git` • `GitHub` • `VS Code` 
 
 ---
 
 ## 📊 GitHub Stats  
-![Abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbolfazlghasemiNUS&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbolfazlghasemiNUS&layout=compact&theme=radical)
+![Abolfazl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abolfazlghasemi55&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazlghasemi55&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect With Me  
-- 🌍 [LinkedIn](https://www.linkedin.com/in/abolfazlghasemi55)  
+- 🌍 Linkedin:(https://www.linkedin.com/in/abolfazlghasemi55)  ](https://www.linkedin.com/in/abolfazl-ghasemi55/)
 - ✉️ Email: abolfazlghasemi55@gmail.com  
 
 ---
