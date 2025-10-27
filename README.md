@@ -32,6 +32,13 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+
+![Abolfazl's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abolfazlghasemi83&theme=tokyo-night&bg_color=0D1117&hide_border=true)
+
+---
+
+
 ## 📫 Connect With Me  
 - 🌍 Linkedin:(https://www.linkedin.com/in/abolfazl-ghasemi55/)
 - ✉️ Email: abolfazlghasemi55@gmail.com
