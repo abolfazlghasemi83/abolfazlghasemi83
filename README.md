@@ -40,7 +40,8 @@
 
 ## 🔥 GitHub Streak Stats
 
-![Abolfazl's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abolfazlghasemi83&theme=tokyonight&hide_border=true)
+![Abolfazl's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abolfazlghasemi83&theme=radical&hide_border=true)
+
 
 ---
 
