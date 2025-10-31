@@ -50,7 +50,7 @@
 ## 📫 Connect With Me  
 - 🌍 Linkedin:(https://www.linkedin.com/in/abolfazl-ghasemi55/)
 - ✉️ Email: abolfazlghasemi55@gmail.com
-- Telegram: [t.me/](https://t.me/AG_Witcher)
+- Telegram: https://t.me/AG_Witcher
 
 
 
