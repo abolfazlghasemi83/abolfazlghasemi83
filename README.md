@@ -22,7 +22,7 @@
 `Python` • `Django`  
 
 **Tools & Others:**  
-`Git` • `GitHub` • `VS Code` 
+`Git` • `GitHub` • `VS Code` • `PyCharm` 
 
 ---
 
