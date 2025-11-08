@@ -45,6 +45,30 @@
 
 ---
 
+# Diabetes Screening Tool 🩺
+
+یک ابزار غربالگری دیابت مبتنی بر قانون (Rule-based)، ساخته‌شده با HTML، CSS و JavaScript.
+
+---
+
+## 🔗 نمایش زنده (Live Demo)
+
+✅ پروژه به صورت زنده در دسترس است:  
+👉 [مشاهدهٔ نسخهٔ آنلاین (Live Page)](https://abolfazlghasemi83.github.io/diabetes-screening/)
+
+> 💡 برای استفاده، فقط کافیه روی لینک بالا کلیک کنید — نیازی به نصب یا دانلود نیست.
+
+---
+
+## 🛠 فناوری‌ها
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Rule-based Decision Engine
+
+## 📌 درباره
+این پروژه یک ابزار غربالگری اولیهٔ دیابت است که بر اساس معیارهای پزشکی (مانند سن، BMI، سابقهٔ خانوادگی و غیره) احتمال خطر را ارزیابی می‌کند.
+
 
 
 ## 📫 Connect With Me  
