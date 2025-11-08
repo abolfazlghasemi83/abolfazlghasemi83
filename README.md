@@ -45,29 +45,26 @@
 
 ---
 
-# Diabetes Screening Tool 🩺
+# 🩺 Dr. Robotic — Diabetes Screening project 
 
-یک ابزار غربالگری دیابت مبتنی بر قانون (Rule-based)، ساخته‌شده با HTML، CSS و JavaScript.
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Page-brightgreen?logo=github&logoColor=white)](https://abolfazlghasemi83.github.io/diabetes-screening/)
 
----
-
-## 🔗 نمایش زنده (Live Demo)
-
-✅ پروژه به صورت زنده در دسترس است:  
-👉 [مشاهدهٔ نسخهٔ آنلاین (Live Page)](https://abolfazlghasemi83.github.io/diabetes-screening/)
-
-> 💡 برای استفاده، فقط کافیه روی لینک بالا کلیک کنید — نیازی به نصب یا دانلود نیست.
+یک ابزار غربالگری دیابت هوشمند — ترکیبی از **قوانین بالینی** و **الگوریتم‌های یادگیری ماشین**.
 
 ---
 
 ## 🛠 فناوری‌ها
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Rule-based Decision Engine
 
-## 📌 درباره
-این پروژه یک ابزار غربالگری اولیهٔ دیابت است که بر اساس معیارهای پزشکی (مانند سن، BMI، سابقهٔ خانوادگی و غیره) احتمال خطر را ارزیابی می‌کند.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SPSS Modeler](https://img.shields.io/badge/SPSS%20Modeler-4D85C4?logo=ibm&logoColor=white)
+
+- ✅ **Frontend**: HTML/CSS/JS — رابط کاربری واکنش‌گرا و بدون سرور  
+- 📊 **پشتیبان ML**: مدل‌های پیش‌بینی با **IBM SPSS Modeler** (در فاز تحلیل داده و انتخاب قواعد کلیدی)  
+  > از تحلیل‌های آماری و الگوریتم‌هایی مثل *C&R Tree* و *Neural Network* برای استخراج قواعد بالینی استفاده شد — نتایج در قالب قانون‌های قابل اجرا در `script.js` پیاده‌سازی شدند.
+
+---
 
 
 
