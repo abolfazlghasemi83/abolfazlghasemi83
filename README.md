@@ -64,7 +64,7 @@ An Intelligent Diabetes Screening Tool — a hybrid approach combining clinical 
 
 ✅ **Frontend**: Pure HTML/CSS/JS — lightweight, responsive, and serverless UI  
 📊 **ML Backend**: Predictive modeling powered by **IBM SPSS Modeler**  
-→ Clinical decision rules extracted via statistical analysis & ML algorithms (*C&R Tree*, *Neural Network*)  
+→ Clinical decision rules extracted via statistical analysis & ML algorithms (*C5 Tree*)  
 → Final logic distilled into human-readable, executable rules in `script.js`.
 
 🚀 Changes — v1.1 :
