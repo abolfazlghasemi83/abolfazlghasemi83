@@ -47,7 +47,7 @@
 
 # 🩺 Dr. Robotic — Diabetes Screening project 
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Page-brightgreen?logo=github&logoColor=white)](https://abolfazlghasemi83.github.io/diabetes-screening/)
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Page-brightgreen?logo=github&logoColor=white)](https://abolfazlghasemi83.github.io/diabetes_screening_V1.1//)
 
 An Intelligent Diabetes Screening Tool — a hybrid approach combining clinical guidelines and machine learning algorithms.
 
