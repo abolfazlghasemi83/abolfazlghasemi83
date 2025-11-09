@@ -67,9 +67,10 @@ An Intelligent Diabetes Screening Tool — a hybrid approach combining clinical 
 → Clinical decision rules extracted via statistical analysis & ML algorithms (*C&R Tree*, *Neural Network*)  
 → Final logic distilled into human-readable, executable rules in `script.js`.
 
+🚀 Changes — v1.1 :
+✅ Clinical plausibility checks (flags biologically implausible inputs)
+
 ---
-
-
 
 ## 📫 Connect With Me  
 - 🌍 Linkedin:(https://www.linkedin.com/in/abolfazl-ghasemi55/)
