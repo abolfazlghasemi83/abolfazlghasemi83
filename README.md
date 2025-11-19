@@ -55,7 +55,6 @@ An Intelligent Diabetes Screening Tool — a hybrid approach combining clinical 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![SPSS Modeler](https://img.shields.io/badge/SPSS%20Modeler-4D85C4?logo=ibm&logoColor=white)
   
-`HTML5` • `CSS3` • `JavaScript` • `IBM SPSS Modeler`
 
 ✅ **Frontend**: Pure HTML/CSS/JS — lightweight, responsive, and serverless UI  
 📊 **ML Backend**: Predictive modeling powered by **IBM SPSS Modeler**  
