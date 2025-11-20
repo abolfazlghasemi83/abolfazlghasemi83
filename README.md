@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Abolfazl Ghasemi
 
--🎓 **Computer Science student** at *Iran’s National University of Skill (NUS)*
--💻 **Frontend Developer** | Currently learning **Angular**
--🌱 Exploring the world of **Django**, **Python**, and **Angular**
+🎓 **Computer Science student** at *****Iran’s National University of Skill (NUS)*****
+💻 **Frontend Developer** | Currently learning **Angular**
+🌱 Exploring the world of **Django**, **Python**, and **Angular**
 
 ---
 
