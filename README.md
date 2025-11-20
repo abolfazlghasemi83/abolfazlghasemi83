@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-    📧 **Email:** <a href="mailto:abolfazlghasemi55@gmail.com">abolfazlghasemi55@gmail.com</a>
+   📧 <b>Email:</b> <a href="mailto:abolfazlghasemi55@gmail.com">abolfazlghasemi55@gmail.com</a>
 </p>
 
 ---
