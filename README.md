@@ -40,32 +40,6 @@
 
 ---
 
-# 🩺 Dr. Robotic — Diabetes Screening project 
-
-[![Live Demo](https://img.shields.io/badge/Demo-Live%20Page-brightgreen?logo=github&logoColor=white)](https://abolfazlghasemi83.github.io/diabetes_screening/)
-
-An Intelligent Diabetes Screening Tool — a hybrid approach combining clinical guidelines and machine learning algorithms.
-
----
-
-
-🛠 **Tech Stack**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SPSS Modeler](https://img.shields.io/badge/SPSS%20Modeler-4D85C4?logo=ibm&logoColor=white)
-  
-
-✅ **Frontend**: Pure HTML/CSS/JS — lightweight, responsive, and serverless UI  
-📊 **ML Backend**: Predictive modeling powered by **IBM SPSS Modeler**  
-→ Clinical decision rules extracted via statistical analysis & ML algorithms (*C5 Tree*)  
-→ Final logic distilled into human-readable, executable rules in `script.js`.
-
-🚀 Changes — v1.1 :
-✅ Clinical plausibility checks (flags biologically implausible inputs)
-
----
-
 ## 📫 Connect With Me  
 - 🌍 Linkedin:(https://www.linkedin.com/in/abolfazl-ghasemi55/)
 - ✉️ Email: abolfazlghasemi55@gmail.com
