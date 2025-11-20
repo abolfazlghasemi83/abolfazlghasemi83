@@ -48,9 +48,6 @@
 ---
 
 <div align="center">
-    <h1 style="border-bottom: 3px solid #0984e3; padding-bottom: 5px; margin-bottom: 30px;">
-        ✨ نمونه کارها و پروژه‌ها (Portfolio & Projects)
-    </h1>
     <p>
         به پروفایل من خوش آمدید! توسعه‌دهنده وب و علاقه‌مند به ساخت ابزارهایی با تمرکز بر کاربری آسان و نیازهای جامعه فارسی‌زبان.
     </p>
