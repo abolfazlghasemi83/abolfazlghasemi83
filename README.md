@@ -47,41 +47,49 @@
 
 ---
 
+<div align="center">
+    <h1 style="border-bottom: 3px solid #0984e3; padding-bottom: 5px; margin-bottom: 30px;">
+        ✨ نمونه کارها و پروژه‌ها (Portfolio & Projects)
+    </h1>
+    <p>
+        به پروفایل من خوش آمدید! توسعه‌دهنده وب و علاقه‌مند به ساخت ابزارهایی با تمرکز بر کاربری آسان و نیازهای جامعه فارسی‌زبان.
+    </p>
+</div>
+
+---
+
 ### 🚀 پروژه‌های کلیدی (Key Projects)
 
-| پروژه | توضیحات کلیدی | تکنولوژی‌ها | لینک‌ها |
+| نام پروژه | توضیحات کلیدی | تکنولوژی‌ها | دمو و ریپو |
 | :--- | :--- | :--- | :--- |
-| **Karastan (Taskmaster)** 📅 | ابزار مدیریت وظایف با پشتیبانی کامل از **تقویم شمسی**، قابلیت Drag & Drop برای اولویت‌بندی و دوزبانه (FA/EN). | `JS` / `HTML` / `CSS` | [Live Demo](https://your-demo-link.com) &vert; [GitHub Repo](https://github.com/YourUsername/Jalali-Taskmaster) |
-| **[نام پروژه قبلی شما]** 📊 | (مثلاً: یک داشبورد ساده برای نمایش آب و هوا با فراخوانی API خارجی و نمایش داده‌ها.) | `React` / `APIs` / `CSS` | [Live Demo](https://your-demo-link-2.com) &vert; [GitHub Repo](https://github.com/YourUsername/Previous-Project-Name) |
-| **پروژه سوم (اختیاری)** 💡 | (توضیحی مختصر در مورد پروژه سوم شما.) | `Python` / `Django` | [Live Demo] &vert; [GitHub Repo] |
+| **Karastan (Taskmaster)** 📅 | ابزار مدیریت وظایف دوزبانه (FA/EN) با تمرکز بر **تقویم شمسی** بومی، قابلیت Drag & Drop برای اولویت‌بندی و هشدارهای روزانه موعد. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Taskmaster/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Taskmaster.git) |
+| **Diabetes Screening** 🩸 | پروژه غربالگری و پیش‌بینی دیابت با استفاده از مدل‌های داده برای تحلیل ریسک و ارائه نتیجه. (پروژه با تمرکز بر Data Science و Frontend ساده). | `HTML` / `CSS` / `JS` (ممکن است شامل `Python/ML` هم باشد) | [Live Demo](https://abolfazlghasemi83.github.io/diabetes_screening/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/diabetes_screening.git) |
 
 <br>
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ مجموعه مهارت‌ها (Tech Stack & Skills)
 
-زبان‌ها، فریم‌ورک‌ها و ابزارهایی که بیشتر با آن‌ها کار می‌کنم:
+مهارت‌ها و ابزارهای اصلی من:
 
-`JavaScript` &nbsp; • &nbsp; `HTML5` &nbsp; • &nbsp; `CSS3` &nbsp; • &nbsp; `Git` &nbsp; • &nbsp; `Local Storage` &nbsp; • &nbsp; `Figma`
+`JavaScript` &nbsp; • &nbsp; `HTML5` &nbsp; • &nbsp; `CSS3` &nbsp; • &nbsp; `Git` &nbsp; • &nbsp; `GitHub Pages` &nbsp; • &nbsp; `Jalali Date Conversion`
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 با من در ارتباط باشید! (Let's Connect)
 
 <p align="center">
-    <a href="https://linkedin.com/in/YourProfile" target="_blank">
+    <a href="https://www.linkedin.com/in/abolfazl-ghasemi55/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     &nbsp;
-    <a href="mailto:youremail@example.com">
+    <a href="mailto:abolfazlghasemi55@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
+    &nbsp;
+    <a href="https://t.me/AG_Witcher" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
 </p>
----
-## 📫 Connect With Me  
-- 🌍 Linkedin:(https://www.linkedin.com/in/abolfazl-ghasemi55/)
-- ✉️ Email: abolfazlghasemi55@gmail.com
-- Telegram: https://t.me/AG_Witcher
-
 
 
 ---
