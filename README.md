@@ -63,7 +63,8 @@
 
 <br>
 ---
-## 🎓 Certificates  
+
+### 🎓 Certificates  
 
 ---
 
