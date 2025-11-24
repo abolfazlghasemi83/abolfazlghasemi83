@@ -62,6 +62,8 @@
 | **Diabetes Screening** 🩸 | A screening tool for analyzing risk and presenting results based on data science models for diabetes prediction. | `HTML` / `CSS` / `JS` (integrated with `ML` models) | [Live Demo](https://abolfazlghasemi83.github.io/diabetes_screening/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/diabetes_screening.git) |
 
 <br>
+---
+## 🎓 Certificates  
 
 ---
 
