@@ -66,11 +66,11 @@
 ---
 
 ### 🎓 Certificates  
-# Introduction to Machine Learning – Faradars
+ Introduction to Machine Learning – Faradars
 🔗 https://faradars.org/verify/5F43A441?lang=en
 
 ---
-# Python Fundamentals – Faradars
+ Python Fundamentals – Faradars
 🔗 https://faradars.org/verify/88976CB8?lang=en
 
 ---
