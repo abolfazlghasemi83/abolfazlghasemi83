@@ -66,11 +66,11 @@
 ---
 
 ### 🎓 Certificates  
- Introduction to Machine Learning – Faradars
+ Web design with CSS in 120 minutes– Faradars
 🔗 https://faradars.org/verify/5F43A441?lang=en
 
 ---
- Python Fundamentals – Faradars
+ Mastering Git , github and gitlab– Faradars
 🔗 https://faradars.org/verify/88976CB8?lang=en
 
 ---
