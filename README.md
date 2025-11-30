@@ -5,7 +5,6 @@
 * 🌱 Exploring the world of **Django**, **Python**, and **Angular**
 
 ---
-
 ---
 
 ## 🚀 About Me
