@@ -74,7 +74,7 @@
 
 ---
  Docker Essentials - Faradars
-🔗 https://faradars.org/verify/33AFA0E0
+🔗 https://faradars.org/verify/33AFA0E0?lang=en
 
 ---
 
