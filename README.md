@@ -73,6 +73,10 @@
 🔗 https://faradars.org/verify/88976CB8?lang=en
 
 ---
+ Docker Essentials - Faradars
+🔗 https://faradars.org/verify/33AFA0E0
+
+---
 
 ### 🌐 Let's Connect!
 
