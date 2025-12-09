@@ -90,9 +90,13 @@
     </a>
 </p>
 
-<p align="center">
-   📧 <b>Email:</b> <a href="mailto:abolfazlghasemi55@gmail.com">abolfazlghasemi55@gmail.com</a>
-</p>
+<div align="center">
+  <a href="abolfazlghasemi55@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 ###
 
