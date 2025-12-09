@@ -94,6 +94,14 @@
    📧 <b>Email:</b> <a href="mailto:abolfazlghasemi55@gmail.com">abolfazlghasemi55@gmail.com</a>
 </p>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abolfazlghasemi83.abolfazlghasemi83&"  />
+</div>
+
+###
+
 ---
 
 > 💡 “Every line of code is a step toward mastering your craft.”
