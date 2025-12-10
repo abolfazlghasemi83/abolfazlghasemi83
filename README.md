@@ -59,9 +59,7 @@
 | Project | Key Features | Tech Stack | Links |
 | :--- | :---| :---| :---|
 | **Taskmaster** 📅 | A bilingual (FA/EN) to-do list with native **Jalali Calendar** support, permanent **Drag & Drop** prioritization, and daily due date alarms. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Taskmaster/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Taskmaster.git) |
-
 | **Diabetes Screening** 🩸 | A screening tool for analyzing risk and presenting results based on data science models for diabetes prediction. | `HTML` / `CSS` / `JS` (integrated with `ML` models) | [Live Demo](https://abolfazlghasemi83.github.io/diabetes_screening/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/diabetes_screening.git) |
-
 | **Advanced Calculator** 🌌 | A dark-themed **glassmorphism** scientific calculator with comprehensive functions, **N-th root** support, and a reusable **history** panel. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Calculator) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Calculator) |
 
 
