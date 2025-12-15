@@ -97,7 +97,7 @@
 </p>
  &nbsp;
 <p> 
-Email:
+<b>Email</b>:
 <b>abolfazlghasemi55@gmail.com</b>
 </p>
 
