@@ -97,7 +97,7 @@
 </p>
  &nbsp;
 <p> 
-<b>Email</b>:
+<b style=color: "blue">Email</b>:
 <b>abolfazlghasemi55@gmail.com</b>
 </p>
 
