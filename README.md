@@ -2,7 +2,7 @@
 
 * 🎓 **Computer Science student** at *Iran’s National University of Skill (NUS)*
 * 💻 **Aspiring Frontend Developer** | Currently learning **Angular**
-* 🌱 Exploring the world of **Django**, **Python**, and **Angular**
+* Exploring the world of **Django**, **Python**, and **Angular**
 
 ---
 ---
