@@ -8,10 +8,9 @@
 ---
 
 ## 🚀 About Me
-- 🌐 Passionate about web technologies and clean UI design
-- 🧠 Always learning and building small projects to grow my skills
-- 💬 Open to collaborate on open-source or frontend projects
-- 🕹️ Interested in creative coding, data visualization, and UI animations
+-  Passionate about web technologies and clean UI design
+-  Always learning and building small projects to grow my skills
+-  Interested in creative coding, data visualization, and UI animations
 
 ---
 
