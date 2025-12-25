@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Abolfazl ghasemi
+#                       Hi there, I'm Abolfazl ghasemi
 
 * 🎓 **Computer Science student** at *Iran’s National University of Skill (NUS)*
 * 💻 **Aspiring Frontend Developer** | Currently learning **Angular**
@@ -7,14 +7,14 @@
 ---
 ---
 
-## 🚀 About Me
+##  About Me
 -  Passionate about web technologies and clean UI design
 -  Always learning and building small projects to grow my skills
 -  Interested in creative coding, data visualization, and UI animations
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 **Frontend:**
 `HTML5` • `CSS3` • `JavaScript` • `Angular`
 
