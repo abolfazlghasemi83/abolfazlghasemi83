@@ -1,4 +1,4 @@
-#                       Hi there, I'm Abolfazl ghasemi
+# Hi there,I'm Abolfazl ghasemi
 
 * 🎓 **Computer Science student** at *Iran’s National University of Skill (NUS)*
 * 💻 **Aspiring Frontend Developer** | Currently learning **Angular**
