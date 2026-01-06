@@ -22,8 +22,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" />
-  <img src="https://cdn.simpleicons.org/apexcharts/000000" width="36" />
-  <img src="https://cdn.simpleicons.org/nebular/3366FF" width="36" />
+  <img src="https://raw.githubusercontent.com/apexcharts/apexcharts.js/master/media/apexcharts-logo.svg" width="36" />
+<img src="https://raw.githubusercontent.com/akveo/nebular/master/docs/assets/images/nebular-logo.svg" width="36" />
+
 </p>
 
 ---
