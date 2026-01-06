@@ -16,20 +16,20 @@
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" />
-  <img src="https://www.vectorlogo.zone/logos/apexcharts/apexcharts-icon.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/akveo/nebular/master/docs/assets/images/nebular-logo.svg" width="36" />
+  <img src="https://cdn.simpleicons.org/apexcharts/000000" width="36" />
+  <img src="https://cdn.simpleicons.org/nebular/3366FF" width="36" />
 </p>
 
 ---
 
 ### ⚙️ Backend
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" />
 </p>
@@ -37,7 +37,7 @@
 ---
 
 ### 🛠 Tools & Others
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" />
