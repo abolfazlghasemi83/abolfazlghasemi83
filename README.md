@@ -1,7 +1,7 @@
 # Hi there,I'm Abolfazl ghasemi
 
-* 🎓 **Computer Science student** at *Iran’s National University of Skill (NUS)*
-* 💻 **Aspiring Frontend Developer** | Currently learning **Angular**
+*  **Computer Science student** at *Iran’s National University of Skill (NUS)*
+*  **Aspiring Frontend Developer** | Currently learning **Angular**
 * Exploring the world of **Django**, **Python**, and **Angular**
 
 ---
@@ -22,8 +22,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/apexcharts/apexcharts.js/master/media/apexcharts-logo.svg" width="36" />
-<img src="https://raw.githubusercontent.com/akveo/nebular/master/docs/assets/images/nebular-logo.svg" width="36" />
+  <img src="https://img.shields.io/badge/ApexCharts-FFFFFF?style=for-the-badge&logo=apexcharts&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/Nebular-3366FF?style=for-the-badge&logo=nebular&logoColor=white" height="28"/>
+
 
 </p>
 
