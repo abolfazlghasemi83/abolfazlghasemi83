@@ -1,5 +1,5 @@
-I'm alive 
-# Hi there,I'm Abolfazl ghasemi
+Still Here. Still Standing
+# Hi there, I'm Abolfazl ghasemi
 
 *  **Computer Science student** at *Iran’s National University of Skill (NUS)*
 *  **Aspiring Frontend Developer** | Currently learning **Angular**
