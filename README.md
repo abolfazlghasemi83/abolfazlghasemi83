@@ -93,17 +93,19 @@ Still Here , Still Standing , Still Alive...
 ---
 
 ### 🎓 Certificates  
- Web design with CSS in 120 minutes– Faradars
-🔗 https://faradars.org/verify/5F43A441?lang=en
-
----
- Mastering Git , github and gitlab– Faradars
-🔗 https://faradars.org/verify/88976CB8?lang=en
-
----
- Docker Essentials - Faradars
-🔗 https://faradars.org/verify/33AFA0E0?lang=en
-
+<p align="left">
+  <a href="https://faradars.org/verify/5F43A441?lang=en" target="_blank">
+    <img src="https://img.shields.io/badge/🎨_Web_Design_with_CSS-Faradars-7B1FA2?style=for-the-badge&logo=css3&logoColor=white" alt="Web design with CSS in 120 minutes - Faradars" />
+  </a>
+  <br><br>
+  <a href="https://faradars.org/verify/88976CB8?lang=en" target="_blank">
+    <img src="https://img.shields.io/badge/🌿_Mastering_Git%2C_GitHub_%26_GitLab-Faradars-2E7D32?style=for-the-badge&logo=git&logoColor=white" alt="Mastering Git, GitHub and GitLab - Faradars" />
+  </a>
+  <br><br>
+  <a href="https://faradars.org/verify/33AFA0E0?lang=en" target="_blank">
+    <img src="https://img.shields.io/badge/🐳_Docker_Essentials-Faradars-1565C0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Essentials - Faradars" />
+  </a>
+</p>
 ---
 
 ### 🌐 Let's Connect!
