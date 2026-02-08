@@ -14,9 +14,9 @@ Still Here , Still Standing , Still Alive...
 -  Interested in creative coding, data visualization, and UI animations
 
 ---
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 🎨 Frontend
+###  Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" />
@@ -31,7 +31,7 @@ Still Here , Still Standing , Still Alive...
 
 ---
 
-### ⚙️ Backend
+###  Backend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" />
@@ -70,7 +70,7 @@ Still Here , Still Standing , Still Alive...
 
 <div align="center">
     <h1 style="border-bottom: 3px solid #0984e3; padding-bottom: 5px; margin-bottom: 30px;">
-        ✨ Featured Projects
+         Featured Projects
     </h1>
 </div>
 
@@ -80,9 +80,9 @@ Still Here , Still Standing , Still Alive...
 
 | Project | Key Features | Tech Stack | Links |
 | :--- | :---| :---| :---|
-| **Taskmaster** 📅 | A bilingual (FA/EN) to-do list with native **Jalali Calendar** support, permanent **Drag & Drop** prioritization, and daily due date alarms. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Taskmaster/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Taskmaster.git) |
-| **Diabetes Screening** 🩸 | A screening tool for analyzing risk and presenting results based on data science models for diabetes prediction. | `HTML` / `CSS` / `JS` (integrated with `ML` models) | [Live Demo](https://abolfazlghasemi83.github.io/diabetes_screening/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/diabetes_screening.git) |
-| **Advanced Calculator** 🌌 | A dark-themed **glassmorphism** scientific calculator with comprehensive functions, **N-th root** support, and a reusable **history** panel. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Calculator) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Calculator) |
+| **Taskmaster**  | A bilingual (FA/EN) to-do list with native **Jalali Calendar** support, permanent **Drag & Drop** prioritization, and daily due date alarms. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Taskmaster/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Taskmaster.git) |
+| **Diabetes Screening**  | A screening tool for analyzing risk and presenting results based on data science models for diabetes prediction. | `HTML` / `CSS` / `JS` (integrated with `ML` models) | [Live Demo](https://abolfazlghasemi83.github.io/diabetes_screening/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/diabetes_screening.git) |
+| **Advanced Calculator**  | A dark-themed **glassmorphism** scientific calculator with comprehensive functions, **N-th root** support, and a reusable **history** panel. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Calculator) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Calculator) |
 
 
 
@@ -99,7 +99,7 @@ Still Here , Still Standing , Still Alive...
   </a>
   <br><br>
   <a href="https://faradars.org/verify/88976CB8?lang=en" target="_blank">
-    <img src="https://img.shields.io/badge/🌿_Mastering_Git%2C_GitHub_%26_GitLab-Faradars-2E7D32?style=for-the-badge&logo=git&logoColor=white" alt="Mastering Git, GitHub and GitLab - Faradars" />
+    <img src="https://img.shields.io/badge/_Mastering_Git%2C_GitHub_%26_GitLab-Faradars-2E7D32?style=for-the-badge&logo=git&logoColor=white" alt="Mastering Git, GitHub and GitLab - Faradars" />
   </a>
   <br><br>
   <a href="https://faradars.org/verify/33AFA0E0?lang=en" target="_blank">
