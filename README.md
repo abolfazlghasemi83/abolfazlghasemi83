@@ -8,7 +8,7 @@ Still Here , Still Standing , Still Alive
 ---
 ---
 
-##  About Me
+## About Me
 -  Passionate about web technologies and clean UI design
 -  Always learning and building small projects to grow my skills
 -  Interested in creative coding, data visualization, and UI animations
