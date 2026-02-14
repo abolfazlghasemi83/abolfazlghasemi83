@@ -75,14 +75,98 @@ Still Here , Still Standing , Still Alive
 </div>
 
 ---
+<div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin:16px 0;">
 
-### 🚀 Key Projects
+  <!-- Taskmaster -->
+  <div style="min-width:260px;max-width:340px;padding:16px;border-radius:14px;
+              background: rgba(255,255,255,0.6);
+              border:1px solid rgba(255,255,255,0.7);
+              box-shadow:0 10px 26px rgba(0,0,0,0.08);">
+    <h3 style="margin:0 0 8px;color:#0f2f57;">Taskmaster</h3>
+    <p style="margin:0 0 10px;color:#334155;font-size:0.95rem;">
+      A bilingual (FA/EN) to-do list with native Jalali Calendar support,
+      permanent Drag & Drop prioritization, and daily due date alarms.
+    </p>
+    <div style="font-size:0.85rem;font-weight:700;color:#2563eb;margin-bottom:10px;">
+      HTML · CSS · Vanilla JS
+    </div>
+    <div style="display:flex;gap:8px;">
+      <a href="https://abolfazlghasemi83.github.io/Taskmaster/"
+         target="_blank"
+         style="flex:1;text-align:center;padding:8px;border-radius:8px;
+                background:#e0f2fe;color:#0369a1;font-weight:600;text-decoration:none;">
+        Live Demo
+      </a>
+      <a href="https://github.com/abolfazlghasemi83/Taskmaster"
+         target="_blank"
+         style="flex:1;text-align:center;padding:8px;border-radius:8px;
+                background:#ffffff;color:#0369a1;font-weight:600;text-decoration:none;
+                border:1px solid #e5e7eb;">
+        GitHub Repo
+      </a>
+    </div>
+  </div>
 
-| Project | Key Features | Tech Stack | Links |
-| :--- | :---| :---| :---|
-| **Taskmaster**  | A bilingual (FA/EN) to-do list with native **Jalali Calendar** support, permanent **Drag & Drop** prioritization, and daily due date alarms. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Taskmaster/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Taskmaster.git) |
-| **Diabetes Screening**  | A screening tool for analyzing risk and presenting results based on data science models for diabetes prediction. | `HTML` / `CSS` / `JS` (integrated with `ML` models) | [Live Demo](https://abolfazlghasemi83.github.io/diabetes_screening/) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/diabetes_screening.git) |
-| **Advanced Calculator**  | A dark-themed **glassmorphism** scientific calculator with comprehensive functions, **N-th root** support, and a reusable **history** panel. | `HTML` / `CSS` / `Vanilla JS` | [Live Demo](https://abolfazlghasemi83.github.io/Calculator) &vert; [GitHub Repo](https://github.com/abolfazlghasemi83/Calculator) |
+
+  <div style="min-width:260px;max-width:340px;padding:16px;border-radius:14px;
+              background: rgba(255,255,255,0.6);
+              border:1px solid rgba(255,255,255,0.7);
+              box-shadow:0 10px 26px rgba(0,0,0,0.08);">
+    <h3 style="margin:0 0 8px;color:#0f2f57;">Diabetes Screening</h3>
+    <p style="margin:0 0 10px;color:#334155;font-size:0.95rem;">
+      A screening tool for analyzing risk and presenting results
+      based on data science models for diabetes prediction.
+    </p>
+    <div style="font-size:0.85rem;font-weight:700;color:#2563eb;margin-bottom:10px;">
+      HTML · CSS · JS · ML Models
+    </div>
+    <div style="display:flex;gap:8px;">
+      <a href="https://abolfazlghasemi83.github.io/diabetes_screening/"
+         target="_blank"
+         style="flex:1;text-align:center;padding:8px;border-radius:8px;
+                background:#e0f2fe;color:#0369a1;font-weight:600;text-decoration:none;">
+        Live Demo
+      </a>
+      <a href="https://github.com/abolfazlghasemi83/diabetes_screening"
+         target="_blank"
+         style="flex:1;text-align:center;padding:8px;border-radius:8px;
+                background:#ffffff;color:#0369a1;font-weight:600;text-decoration:none;
+                border:1px solid #e5e7eb;">
+        GitHub Repo
+      </a>
+    </div>
+  </div>
+
+  <div style="min-width:260px;max-width:340px;padding:16px;border-radius:14px;
+              background: rgba(255,255,255,0.6);
+              border:1px solid rgba(255,255,255,0.7);
+              box-shadow:0 10px 26px rgba(0,0,0,0.08);">
+    <h3 style="margin:0 0 8px;color:#0f2f57;">Advanced Calculator</h3>
+    <p style="margin:0 0 10px;color:#334155;font-size:0.95rem;">
+      A dark-themed glassmorphism scientific calculator with comprehensive functions,
+      N-th root support, and a reusable history panel.
+    </p>
+    <div style="font-size:0.85rem;font-weight:700;color:#2563eb;margin-bottom:10px;">
+      HTML · CSS · Vanilla JS
+    </div>
+    <div style="display:flex;gap:8px;">
+      <a href="https://abolfazlghasemi83.github.io/Calculator"
+         target="_blank"
+         style="flex:1;text-align:center;padding:8px;border-radius:8px;
+                background:#e0f2fe;color:#0369a1;font-weight:600;text-decoration:none;">
+        Live Demo
+      </a>
+      <a href="https://github.com/abolfazlghasemi83/Calculator"
+         target="_blank"
+         style="flex:1;text-align:center;padding:8px;border-radius:8px;
+                background:#ffffff;color:#0369a1;font-weight:600;text-decoration:none;
+                border:1px solid #e5e7eb;">
+        GitHub Repo
+      </a>
+    </div>
+  </div>
+
+</div>
 
 
 
