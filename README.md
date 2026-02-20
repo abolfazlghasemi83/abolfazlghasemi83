@@ -129,9 +129,9 @@ A dark-themed glassmorphism scientific calculator with comprehensive functions, 
     <img src="https://img.shields.io/badge/_Mastering_Git%2C_GitHub_%26_GitLab-Faradars-2E7D32?style=for-the-badge&logo=git&logoColor=white" alt="Mastering Git, GitHub and GitLab - Faradars" />
   </a>
   <br><br>
-  <a href="https://faradars.org/verify/33AFA0E0?lang=en" target="_blank">
-    <img src="https://img.shields.io/badge/🐳_Docker_Essentials-Faradars-1565C0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Essentials - Faradars" />
-  </a>
+<a href="https://faradars.org/verify/33AFA0E0?lang=en" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=&color=1565C0&logo=docker&logoColor=white&style=for-the-badge" alt="Docker Essentials - Faradars" />
+</a>
 </p>
 ---
 
