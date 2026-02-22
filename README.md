@@ -2,10 +2,10 @@ Still Alive  ...
 
 ![Currently Working](https://img.shields.io/badge/Currently%20Working%20On-Data%20Science%20Project-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 
-# I'm Abolfazl ghasemi
+# I'm [![Abolfazl Ghasemi](https://img.shields.io/badge/Abolfazl%20Ghasemi-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abolfazlghasemi83)
 
 *  **Computer Science student** at *Iran’s National University of Skill (NUS)*
-*  **Aspiring Frontend Developer** | Currently learning **Angular**
+*  **Aspiring Frontend Developer** 
 * Exploring the world of **Django**, **Python**, and **Angular**
 
 ---
