@@ -2,7 +2,7 @@ Still Alive  ...
 
 ![Currently Working](https://img.shields.io/badge/Currently%20Working%20On-Data%20Science%20Project-0A66C2?style=for-the-badge&logo=python&logoColor=white)
 
- ### ![I'm](https://img.shields.io/badge/I-am-2b8bd3?style=for-the-badge) ![Abolfazl Ghasemi](https://img.shields.io/badge/Abolfazl%20Ghasemi-Developer-black?style=flat-square)
+### ![I am](https://img.shields.io/badge/I--am-2b8bd3?style=for-the-badge)![Abolfazl Ghasemi](https://img.shields.io/badge/Abolfazl%20Ghasemi-Developer-000000?style=for-the-badge)
 
 *  **Computer Science student** at *Iran’s National University of Skill (NUS)*
 *  **Aspiring Frontend Developer** 
