@@ -1,4 +1,4 @@
-![Currently Working](https://img.shields.io/badge/Currently%20Working%20On-Data%20Science%20Project-0A66C2?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### ![Im](https://img.shields.io/badge/Im-2b8bd3?style=for-the-badge)![Abolfazl Ghasemi](https://img.shields.io/badge/Abolfazl%20Ghasemi-Developer-000000?style=for-the-badge)
 
