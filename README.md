@@ -1,11 +1,10 @@
 
 
-### ![Im](https://img.shields.io/badge/Im-2b8bd3?style=for-the-badge)![Abolfazl Ghasemi](https://img.shields.io/badge/Abolfazl%20Ghasemi-Developer-000000?style=for-the-badge)
+### ![Hi](https://img.shields.io/badge/Hi-2b8bd3?style=for-the-badge)![Abolfazl Ghasemi](https://img.shields.io/badge/Abolfazl%20Ghasemi-Developer-000000?style=for-the-badge)
 
-*  **Computer Science student** at *Iran’s National University of Skill (NUS)*
-*  **Aspiring Frontend Developer** 
-* Exploring the world of **Django**, **Python**, and **Angular**
-
+* **Computer Engineering graduate** from *Iran’s National University of Skill (NUS)*
+* **AI Engineer | Frontend Developer**
+* Working with **Artificial Intelligence, Machine Learning, Django, Python, and JavaScript**
 ---
 
 ## About Me
