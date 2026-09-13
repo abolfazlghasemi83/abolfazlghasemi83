@@ -34,41 +34,83 @@
 </p>
 
 ---
+## 🛠️ Tech Stack
 
-## Tech Stack
-
-### Frontend
+### 🤖 AI, Machine Learning & Data
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="36" />
-  <img src="https://img.shields.io/badge/ApexCharts-FFFFFF?style=for-the-badge&logo=apexcharts&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/Nebular-3366FF?style=for-the-badge&logo=nebular&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=ai&logoColor=white" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-2563EB?style=for-the-badge" alt="Data Analysis" />
 </p>
 
 ---
 
-### Backend
+### 🧬 Bioinformatics & Biomedical Research
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" />
+  <img src="https://img.shields.io/badge/Bioinformatics-8A2BE2?style=for-the-badge" alt="Bioinformatics" />
+  <img src="https://img.shields.io/badge/TCGA%20%2F%20GDC-0A539C?style=for-the-badge" alt="TCGA/GDC" />
+  <img src="https://img.shields.io/badge/Transcriptomic%20Analysis-9333EA?style=for-the-badge" alt="Transcriptomic Analysis" />
+  <img src="https://img.shields.io/badge/Biomedical%20Data-0F766E?style=for-the-badge" alt="Biomedical Data" />
 </p>
 
 ---
 
-### Tools & Others
+### 💻 Programming Languages
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
 </p>
 
+---
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" alt="ASP.NET Core" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/ApexCharts-FFFFFF?style=for-the-badge&logo=apexcharts&logoColor=black" height="28" alt="ApexCharts" />
+  <img src="https://img.shields.io/badge/Nebular-3366FF?style=for-the-badge&logo=nebular&logoColor=white" height="28" alt="Nebular" />
+</p>
+
+---
+
+### 🖥️ Desktop & Game Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" alt="Unity" />
+  <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Tkinter" />
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" alt="PyCharm" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" alt="Arduino" />
+</p>
+
+---
+
+### 🗄️ Data & Other Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
 ---
 
 ## GitHub Streak Stats
