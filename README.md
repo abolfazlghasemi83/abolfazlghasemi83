@@ -73,9 +73,7 @@
 ### 🌐 Web Development
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" alt="Angular" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" alt="ASP.NET Core" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/ApexCharts-FFFFFF?style=for-the-badge&logo=apexcharts&logoColor=black" height="28" alt="ApexCharts" />
   <img src="https://img.shields.io/badge/Nebular-3366FF?style=for-the-badge&logo=nebular&logoColor=white" height="28" alt="Nebular" />
