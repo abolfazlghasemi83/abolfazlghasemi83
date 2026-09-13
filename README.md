@@ -84,71 +84,25 @@
 </div>
 
 ---
-
 ## Key Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game">Unity 3D Car Obstacle Game</a></h3>
-      <p>A 3D car obstacle-avoidance game built with Unity, featuring physics-based vehicle movement, third-person camera, and coin collection mechanics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity" />
-        <img src="https://img.shields.io/badge/3D%20Game-FF6F00?style=flat&logo=unity&logoColor=white" alt="3D Game" />
-      </p>
-      <a href="https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abolfazlghasemi83/IOT-Projects">IoT Embedded Systems Projects</a></h3>
-      <p>Educational IoT and embedded systems projects using Arduino Uno and Proteus, including an RFID-based smart door lock and a temperature-controlled motor system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" alt="Arduino" />
-        <img src="https://img.shields.io/badge/Proteus-FF6F00?style=flat&logo=proteus&logoColor=white" alt="Proteus" />
-        <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat&logo=iot&logoColor=white" alt="IoT" />
-      </p>
-      <a href="https://github.com/abolfazlghasemi83/IOT-Projects">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abolfazlghasemi83/Django_weblog">Django Weblog</a></h3>
-      <p>A news blog built with Django, featuring article posting, media uploads, and a clean admin interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" />
-      </p>
-      <a href="https://github.com/abolfazlghasemi83/Django_weblog">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abolfazlghasemi83/diabetes_screening">Diabetes Screening Tool</a></h3>
-      <p>A privacy-first, client-side diabetes risk assessment tool with ML-based rules (C5.0 Decision Tree), BMI calculation, and multi-language support.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-      </p>
-      <a href="https://github.com/abolfazlghasemi83/diabetes_screening">
-        <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
-      </a>
-      &nbsp;
-      <a href="https://abolfazlghasemi83.github.io/diabetes_screening/">
-        <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge" alt="Live Demo">
-      </a>
-    </td>
-  </tr>
-</table>
+| 🎮 **Unity 3D Car Obstacle Game** | 🔌 **IoT Embedded Systems Projects** |
+| :--- | :--- |
+| A 3D car obstacle-avoidance game built with Unity, featuring physics-based vehicle movement, third-person camera, and coin collection mechanics. | Educational IoT and embedded systems projects using Arduino Uno and Proteus, including an RFID-based smart door lock and a temperature-controlled motor system. |
+| [![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)](https://unity.com/) [![3D Game](https://img.shields.io/badge/3D%20Game-FF6F00?style=flat&logo=unity&logoColor=white)](https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game) | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![Proteus](https://img.shields.io/badge/Proteus-FF6F00?style=flat)](https://www.labcenter.com/) [![IoT](https://img.shields.io/badge/IoT-FF6F00?style=flat)](https://github.com/abolfazlghasemi83/IOT-Projects) |
+| [![GitHub Repo](https://img.shields.io/badge/GITHUB-REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abolfazlghasemi83/Unity_3D_Car_Obstacle_Game) | [![GitHub Repo](https://img.shields.io/badge/GITHUB-REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abolfazlghasemi83/IOT-Projects) |
 
----
+| 🌐 **Django Weblog** | 🩺 **Diabetes Screening Tool** |
+| :--- | :--- |
+| A news blog built with Django, featuring article posting, media uploads, and a clean admin interface. | A privacy-first, client-side diabetes risk assessment tool with ML-based rules (C5.0 Decision Tree), BMI calculation, and multi-language support. |
+| [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/) | [![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) |
+| [![GitHub Repo](https://img.shields.io/badge/GITHUB-REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abolfazlghasemi83/Django_weblog) | [![GitHub Repo](https://img.shields.io/badge/GITHUB-REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abolfazlghasemi83/diabetes_screening) &nbsp; [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-VISIT-2563EB?style=for-the-badge)](https://abolfazlghasemi83.github.io/diabetes_screening/) |
+
+| 🧬 **Skin Cancer Biomarker Discovery** |
+| :--- |
+| A machine-learning and statistical research workflow for **stage-specific transcriptomic biomarker discovery** using **TCGA-SKCM gene-expression data**. |
+| [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) [![Bioinformatics](https://img.shields.io/badge/Bioinformatics-8A2BE2?style=flat)](https://github.com/abolfazlghasemi83/Stage-Specific-Biomarkers-Skin-Cancer-ML) [![TCGA-SKCM](https://img.shields.io/badge/TCGA--SKCM-0A539C?style=flat)](https://portal.gdc.cancer.gov/) |
+| [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abolfazlghasemi83/Stage-Specific-Biomarkers-Skin-Cancer-ML) |
 
 ## 🎓 Certificates
 
