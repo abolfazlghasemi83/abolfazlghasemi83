@@ -10,11 +10,16 @@
 
 ## About Me
 
-- Passionate about web technologies and clean UI design
-- Always learning and building small projects to grow my skills
-- Interested in creative coding, data visualization, and UI animations
+* Passionate about web technologies and clean UI design
+* Always learning and building small projects to grow my skills
+* Interested in creative coding, data visualization, and UI animations
+* 🔬 **Research Member at [BioComp Research Lab (BCRLab)](https://bcrlab.ir/)**
 
 <p align="center">
+  <a href="https://bcrlab.ir/" target="_blank">
+    <img src="https://img.shields.io/badge/BioComp%20Research%20Lab-Research%20Member-8A2BE2?style=for-the-badge" alt="BioComp Research Lab">
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/abolfazl-ghasemi55/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -145,20 +150,24 @@
 
 ---
 
-## Certificates  
+## 🎓 Certificates
 
 <p align="left">
-  <a href="https://faradars.org/verify/5F43A441?lang=en" target="_blank">
-    <img src="https://img.shields.io/badge/Web_Design_with_CSS-Faradars-7B1FA2?style=for-the-badge&logo=css3&logoColor=white" alt="Web design with CSS in 120 minutes - Faradars" />
-  </a>
-  <br><br>
-  <a href="https://faradars.org/verify/88976CB8?lang=en" target="_blank">
-    <img src="https://img.shields.io/badge/Mastering_Git%2C_GitHub_%26_GitLab-Faradars-2E7D32?style=for-the-badge&logo=git&logoColor=white" alt="Mastering Git, GitHub and GitLab - Faradars" />
-  </a>
-  <br><br>
-  <a href="https://faradars.org/verify/33AFA0E0?lang=en" target="_blank">
-    <img src="https://img.shields.io/badge/Docker_Essentials-Faradars-1565C0?labelColor=1565C0&logo=docker&logoColor=white&style=for-the-badge" alt="Docker Essentials - Faradars" />
-  </a>
+
+<a href="https://faradars.org/verify/5F43A441?lang=en">
+<img src="https://img.shields.io/badge/Web_Design_with_CSS-Faradars-7B1FA2?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+<br><br>
+
+<a href="https://faradars.org/verify/88976CB8?lang=en">
+<img src="https://img.shields.io/badge/Git%2C_GitHub_%26_GitLab-Faradars-2E7D32?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<br><br>
+
+<a href="https://faradars.org/verify/33AFA0E0?lang=en">
+<img src="https://img.shields.io/badge/Docker_Essentials-Faradars-1565C0?style=for-the-badge&logo=docker&logoColor=white" />
+</a>
+
 </p>
 
 ---
@@ -166,5 +175,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=abolfazlghasemi83.abolfazlghasemi83&"  />
 </div>
+
 
 > “Every line of code is a step toward mastering your craft.”
