@@ -12,7 +12,7 @@
 * Passionate about web technologies and clean UI design
 * Always learning and building small projects to grow my skills
 * Interested in creative coding, data visualization, and UI animations
-* 🔬 **Research Member at [BioComp Research Lab (BCRLab)](https://bcrlab.ir/)**
+* **Research Member at [BioComp Research Lab (BCRLab)](https://bcrlab.ir/)**
 
 <p align="center">
   <a href="https://bcrlab.ir/" target="_blank">
