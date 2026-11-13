@@ -143,7 +143,7 @@
 | [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/) [![Bioinformatics](https://img.shields.io/badge/Bioinformatics-8A2BE2?style=flat)](https://github.com/abolfazlghasemi83/Stage-Specific-Biomarkers-Skin-Cancer-ML) [![TCGA-SKCM](https://img.shields.io/badge/TCGA--SKCM-0A539C?style=flat)](https://portal.gdc.cancer.gov/) |
 | [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abolfazlghasemi83/Stage-Specific-Biomarkers-Skin-Cancer-ML) |
 
-## 🎓 Certificates
+## Certificates
 
 <p align="left">
 
@@ -170,4 +170,4 @@
 </div>
 
 
-> “Every line of code is a step toward mastering your craft.”
+> “Every line of code is a step toward mastering your craft.” 
