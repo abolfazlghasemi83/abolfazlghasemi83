@@ -4,7 +4,7 @@
 
 * **Computer Engineering graduate** from *Iran’s National University of Skill (NUS)*
 * **AI Engineer | Frontend Developer**
-* Working with **Artificial Intelligence, Machine Learning, Django, Python, and JavaScript**
+* Working with **Artificial Intelligence, Django, Python, and JavaScript**
 ---
 
 ## About Me
