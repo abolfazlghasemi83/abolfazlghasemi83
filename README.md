@@ -33,7 +33,7 @@
 </p>
 
 ---
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### 🤖 AI, Machine Learning & Data
 
